@@ -12,7 +12,7 @@ Dự án sử dụng mô hình **Artificial Neural Network (ANN)** để huấn 
 ## 🔢 Dataset
 
 ### ✨ Nguồn dữ liệu
-- Website: [https://bonbanh.com/](https://bonbanh.com/)
+- Website: [https://bonbanh.com/](https://bonbanh.com)
 - Số lượng: ~800 xe
 
 ### 📂 Các trường dữ liệu:
