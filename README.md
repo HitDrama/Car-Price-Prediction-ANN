@@ -48,7 +48,7 @@ model.compile(optimizer=Adam(learning_rate=0.001), loss='mse', metrics=['mae'])
 ```
 ## 🔢 Dự đoán giá xe thực tế
 
-<img src="https://github.com/HitDrama/Car-Price-Prediction-ANN/blob/main/static/training/Screenshot%202025-04-29%20103150.png" alt="Model Architecture" width="600"/>
+<img src="https://github.com/HitDrama/Car-Price-Prediction-ANN/blob/main/static/training/Screenshot%202025-04-29%20103150.png" alt="Model Architecture" width="700"/>
 
 ---
 ## 🚀 Tác giả
